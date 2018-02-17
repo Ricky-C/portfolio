@@ -138,7 +138,6 @@ section h2 {
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
-
   }
   #mainNav .navbar-brand {
     font-size: 2em;
@@ -363,7 +362,6 @@ a:focus, a:hover, a:active {
 .btn-primary {
   background-color: #18BC9C;
   border-color: #18BC9C;
-
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -379,10 +377,4 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
-}
-
-@media (max-width: 450px) {
-  #viewbtn {
-    margin-bottom: 6px;
-  }
 }
