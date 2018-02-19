@@ -131,6 +131,14 @@ section h2 {
   padding: 0.8rem;
 }
 
+
+
+#guitar {
+  height: 242px;
+}
+
+
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 1.5rem;
