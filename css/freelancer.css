@@ -131,7 +131,6 @@ section h2 {
   padding: 0.8rem;
 }
 
-
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 1.5rem;
@@ -378,14 +377,4 @@ a:focus, a:hover, a:active {
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
   background-color: #1a252f;
   border-color: #1a252f;
-}
-img-fluid {
-  height:242px !important;
-}
-#guitar {
-  height: 242px !important;
-}
-#avatar {
-  border-radius: 50%;
-  height: 272px;
 }
