@@ -7,6 +7,10 @@ p {
 	font-family: 'Amatic SC', cursive;
 }
 
+.modp {
+	font-size: 18px;
+	font-family: 'Oswald', sans-serif;
+}
 .lead {
 	font-size: 26px;
 }
