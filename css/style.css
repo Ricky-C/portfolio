@@ -26,6 +26,17 @@ p {
 	text-align: center;
 	font-size: 12px;
 }
-#project3 {
-	height: 20vh;
+.port-img {
+	height: 245px;
+	width: 355px;
 }
+
+svg {
+	margin-bottom: 30px;
+}
+
+@media (max-width: 420px){
+	.viewbtn {
+		margin-bottom: 10px;
+	}
+} 
