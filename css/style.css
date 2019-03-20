@@ -42,7 +42,5 @@ svg {
 }
 
 @media (max-width: 420px){
-	.viewbtn {
-		margin-bottom: 10px;
-	}
+	
 } 
