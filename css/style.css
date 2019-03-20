@@ -30,6 +30,12 @@ p {
 	height: 245px;
 	width: 355px;
 }
+.portfolio-item {
+	border: 2px solid;
+}
+.img-fluid {
+	border: 2px solid;
+}
 
 svg {
 	margin-bottom: 30px;
