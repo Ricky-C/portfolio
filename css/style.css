@@ -42,5 +42,7 @@ svg {
 }
 
 @media (max-width: 420px){
-	
+	.port-img {
+		width: 100%;
+	}
 } 
